@@ -5,7 +5,7 @@ GameJam 2015 Project
 48 hours to make a game with absolutely no knowledge of Unity. Turned out a lot better than expected (and was a ton of fun!).
 
 Current Feature Log:
-<ol>
+<ul>
   <li>Basic character animation and movement added.
   <li>Temporary first level created.
   <li>Collision detection added to character and level walls.
@@ -13,10 +13,13 @@ Current Feature Log:
   <li>Fancy intro screen and suspenseful game-fade-in created.
   <li>Items added (only one, for now).
   <li>Collision detection and pickup scripts added to items.
-</ol>
+</ul>
 
 Future Feature Log:
-
+<ul>
+</ul>
 
 Reserved for Future Use Log:
-Cat companion created, as well as a basic script to get him to follow you.
+<ul>
+  <li>Cat companion created, as well as a basic script to get him to follow you.
+</ul>
