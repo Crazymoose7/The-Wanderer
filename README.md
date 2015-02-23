@@ -17,6 +17,10 @@ Current Feature Log:
 
 Future Feature Log:
 <ul>
+  <li>Make item pickups modify the character model.
+  <li>Make item pickups add new ways of interacting with the world.
+  <li>Add more items.
+  <li>Add enemies and other character to the world that can be interacted with.
 </ul>
 
 Reserved for Future Use Log:
